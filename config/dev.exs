@@ -69,7 +69,7 @@ config :phoenix, :plug_init_mode, :runtime
 # Configure your database
 config :phvue, Phvue.Repo,
   username: "postgres",
-  password: "postgres",
+  password: "welcome",
   database: "phvue_dev",
   hostname: "localhost",
   pool_size: 10
