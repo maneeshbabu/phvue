@@ -16,7 +16,7 @@ import "phoenix_html"
 // Local files can be imported directly using relative paths, for example:
 // import socket from "./socket"
 
-import Vue from 'vue/dist/vue.js';
+import Vue from 'vue/dist/vue.min.js';
 
 new Vue({
     el: "#hello-world",
